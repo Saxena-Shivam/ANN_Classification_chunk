@@ -1,9 +1,8 @@
-pandas
-numpy
-seaborn
-ipykernel
-matplotlib
+tensorflow==2.15.0
+pandas 
+numpy 
 scikit-learn
-tensorflow
 tensorboard
+matplotlib
 streamlit
+scikeras
